@@ -1,0 +1,31 @@
+body {background:#CBFFAB;}
+p {color:red;}
+a {text-decoration: none; color:green; background:pink; padding:2px;}
+a:hover {background:red;}
+
+
+#thing {width: 100px; height: 100px; background:red;}
+#thing:hover {background:green;}
+#hippy {background:#FCFFBE;  width: 447px; height:446px; border-style:solid; border-width:10px; border-color:#FCFFBE;}
+#hippy:hover {border-style:solid; border-width:10px; border-color:yellow;
+}
+#c {position: fixed;
+  top: 30em;
+  right: 40em;
+  width: 39px;
+  border: 10px solid black;}
+#c:hover {background:blue}
+
+#ca {
+  position: absolute;
+  top: 150px;
+  right: 0;
+  width: 600px;
+  height: 300px;
+}
+
+
+.cool {background:blue;}
+.inline {display: inline;}
+.center {margin-right: 20em; margin-left: 20em;}
+
